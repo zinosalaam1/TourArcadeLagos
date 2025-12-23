@@ -1,5 +1,5 @@
 import { Calendar, MapPin, ArrowDown, Sparkles } from "lucide-react";
-import logo from "figma:asset/4e1528f80651c7d8bbd373c5c95eacf62ba4fdd7.png";
+import logo from "/src/assets/trlogo.png";
 import { motion, useScroll, useTransform } from "motion/react";
 import { useRef, useState, useEffect } from "react";
 

@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import logo from "figma:asset/4e1528f80651c7d8bbd373c5c95eacf62ba4fdd7.png";
+import logo from "/src/assets/trlogo.png";
 import { Mail, Twitter, Instagram, Linkedin, ArrowUp } from "lucide-react";
 import { useState, useEffect } from "react";
 
